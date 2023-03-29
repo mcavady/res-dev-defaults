@@ -4,12 +4,12 @@ on:
   # but only for the main branch
   push:
     branches:
-      - site-1
+      - main
   # Replace pull_request with pull_request_target if you
   # plan to use this action with forks, see the Limitations section
   pull_request:
     branches:
-      - site-1
+      - main
     
 jobs:
           

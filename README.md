@@ -44,3 +44,4 @@ Default setup for Shopify With CI workflow - scss and task running for css
 <li>Shopify will ignore anything outside off the folder structure it expects</li>
 <li>Dependabot can be set to auto update deps and the CI will check for a merge or push to "main" by default ( you can change this in the .github/workflows/main.yml</li>
 </ul>
+

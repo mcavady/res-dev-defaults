@@ -33,7 +33,7 @@ Default setup for Shopify With CI workflow - scss and task running for css
 
 --- running in cli3 ---
 <ul>
-<li>login to dev store with CLI3 ( turn of hot reload optional flag ) upto you :)</li>
+<li>login to dev store with CLI3 ( turn off hot reload optional flag ) upto you :)</li>
 <li>run gulpfile</li>
 </ul>
 

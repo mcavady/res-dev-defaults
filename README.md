@@ -50,3 +50,12 @@ Default setup for Shopify With CI workflow - scss and task running for css
 </li>
 </ul>
 
+<h1> Links </h1>
+--- shopify theme check ---
+<a href="https://shopify.dev/docs/themes/tools/theme-check/commands">https://shopify.dev/docs/themes/tools/theme-check/commands</a>
+
+--- GoogleChrome / lighthouse-ci ---
+https://github.com/GoogleChrome/lighthouse-ci
+
+--- Shopify theme tools ---
+https://shopify.dev/themes/tools/github

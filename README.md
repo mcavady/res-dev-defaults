@@ -12,7 +12,6 @@ Default setup for Shopify With CI workflow - scss and task running for css
 <ul>
 <li> LHCI_GITHUB_APP_TOKEN - from lighthouse github app </li>
 <li> SHOP_ACCESS_TOKEN - from Shopify dashboard </li>
-<li> SHOP_APP_PASSWORD - the same as SHOP_ACCESS_TOKEN </li>
 <li> SHOP_STORE - shopify store URL WHITOUT "https://" and WITHOUT "trailing slash" eg store-name.myshopify.com </li>
 <li> SHOP_STORE_PASS - the store password ( password protected store )</li>
 <li> SLACK_WEBHOOK - you will need to get this from your slack admin panel </li>
